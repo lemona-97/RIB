@@ -20,12 +20,10 @@
 		FA5FB1AA2A55558B007B41A6 /* RootBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1A62A55558B007B41A6 /* RootBuilder.swift */; };
 		FA5FB1AB2A55558B007B41A6 /* RootInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1A72A55558B007B41A6 /* RootInteractor.swift */; };
 		FA5FB1C82A555943007B41A6 /* LoggedInRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1C32A555943007B41A6 /* LoggedInRouter.swift */; };
-		FA5FB1C92A555943007B41A6 /* LoggedInViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA5FB1C42A555943007B41A6 /* LoggedInViewController.storyboard */; };
 		FA5FB1CA2A555943007B41A6 /* LoggedInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1C52A555943007B41A6 /* LoggedInViewController.swift */; };
 		FA5FB1CB2A555943007B41A6 /* LoggedInBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1C62A555943007B41A6 /* LoggedInBuilder.swift */; };
 		FA5FB1CC2A555943007B41A6 /* LoggedInInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1C72A555943007B41A6 /* LoggedInInteractor.swift */; };
 		FA5FB1D22A55595E007B41A6 /* LoggedOutRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1CD2A55595E007B41A6 /* LoggedOutRouter.swift */; };
-		FA5FB1D32A55595E007B41A6 /* LoggedOutViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA5FB1CE2A55595E007B41A6 /* LoggedOutViewController.storyboard */; };
 		FA5FB1D42A55595E007B41A6 /* LoggedOutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1CF2A55595E007B41A6 /* LoggedOutViewController.swift */; };
 		FA5FB1D52A55595E007B41A6 /* LoggedOutBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1D02A55595E007B41A6 /* LoggedOutBuilder.swift */; };
 		FA5FB1D62A55595E007B41A6 /* LoggedOutInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5FB1D12A55595E007B41A6 /* LoggedOutInteractor.swift */; };
@@ -49,12 +47,10 @@
 		FA5FB1A62A55558B007B41A6 /* RootBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RootBuilder.swift; path = ../../../../../Documents/RootBuilder.swift; sourceTree = "<group>"; };
 		FA5FB1A72A55558B007B41A6 /* RootInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RootInteractor.swift; path = ../../../../../Documents/RootInteractor.swift; sourceTree = "<group>"; };
 		FA5FB1C32A555943007B41A6 /* LoggedInRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoggedInRouter.swift; path = ../../../../../Documents/LoggedInRouter.swift; sourceTree = "<group>"; };
-		FA5FB1C42A555943007B41A6 /* LoggedInViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = LoggedInViewController.storyboard; path = ../../../../../Documents/LoggedInViewController.storyboard; sourceTree = "<group>"; };
 		FA5FB1C52A555943007B41A6 /* LoggedInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoggedInViewController.swift; path = ../../../../../Documents/LoggedInViewController.swift; sourceTree = "<group>"; };
 		FA5FB1C62A555943007B41A6 /* LoggedInBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoggedInBuilder.swift; path = ../../../../../Documents/LoggedInBuilder.swift; sourceTree = "<group>"; };
 		FA5FB1C72A555943007B41A6 /* LoggedInInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoggedInInteractor.swift; path = ../../../../../Documents/LoggedInInteractor.swift; sourceTree = "<group>"; };
 		FA5FB1CD2A55595E007B41A6 /* LoggedOutRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoggedOutRouter.swift; path = ../../../../../Documents/LoggedOutRouter.swift; sourceTree = "<group>"; };
-		FA5FB1CE2A55595E007B41A6 /* LoggedOutViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = LoggedOutViewController.storyboard; path = ../../../../../Documents/LoggedOutViewController.storyboard; sourceTree = "<group>"; };
 		FA5FB1CF2A55595E007B41A6 /* LoggedOutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoggedOutViewController.swift; path = ../../../../../Documents/LoggedOutViewController.swift; sourceTree = "<group>"; };
 		FA5FB1D02A55595E007B41A6 /* LoggedOutBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoggedOutBuilder.swift; path = ../../../../../Documents/LoggedOutBuilder.swift; sourceTree = "<group>"; };
 		FA5FB1D12A55595E007B41A6 /* LoggedOutInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoggedOutInteractor.swift; path = ../../../../../Documents/LoggedOutInteractor.swift; sourceTree = "<group>"; };
@@ -148,7 +144,6 @@
 			isa = PBXGroup;
 			children = (
 				FA5FB1CD2A55595E007B41A6 /* LoggedOutRouter.swift */,
-				FA5FB1CE2A55595E007B41A6 /* LoggedOutViewController.storyboard */,
 				FA5FB1CF2A55595E007B41A6 /* LoggedOutViewController.swift */,
 				FA5FB1D02A55595E007B41A6 /* LoggedOutBuilder.swift */,
 				FA5FB1D12A55595E007B41A6 /* LoggedOutInteractor.swift */,
@@ -168,7 +163,6 @@
 			isa = PBXGroup;
 			children = (
 				FA5FB1C32A555943007B41A6 /* LoggedInRouter.swift */,
-				FA5FB1C42A555943007B41A6 /* LoggedInViewController.storyboard */,
 				FA5FB1C52A555943007B41A6 /* LoggedInViewController.swift */,
 				FA5FB1C62A555943007B41A6 /* LoggedInBuilder.swift */,
 				FA5FB1C72A555943007B41A6 /* LoggedInInteractor.swift */,
@@ -236,11 +230,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA5FB1C92A555943007B41A6 /* LoggedInViewController.storyboard in Resources */,
 				FA5FB1872A552029007B41A6 /* LaunchScreen.storyboard in Resources */,
 				FA5FB1842A552029007B41A6 /* Assets.xcassets in Resources */,
 				FA5FB1822A552028007B41A6 /* Main.storyboard in Resources */,
-				FA5FB1D32A55595E007B41A6 /* LoggedOutViewController.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -8,5 +8,7 @@ target 'RIB' do
   # Pods for RIB
   pod 'RIBs', '~> 0.9'
   pod 'RxSwift'
+  pod 'RxCocoa', '~> 5.1'
   pod 'PinLayout'
+  
 end
