@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-RIB/Pods-RIB-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PinLayout/PinLayout.framework
+${BUILT_PRODUCTS_DIR}/RIBs/RIBs.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework

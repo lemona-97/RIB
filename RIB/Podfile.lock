@@ -1,0 +1,25 @@
+PODS:
+  - PinLayout (1.10.4)
+  - RIBs (0.9.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.5.0)
+
+DEPENDENCIES:
+  - PinLayout
+  - RIBs (~> 0.9)
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - PinLayout
+    - RIBs
+    - RxSwift
+
+SPEC CHECKSUMS:
+  PinLayout: f8a677ce0cd1cfe96b58435d029b4ceb4ce9c04c
+  RIBs: 879184fbca567425c488d6b3d14a9c5abfbf9d47
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+
+PODFILE CHECKSUM: 23a5e8dc77d6532844d70afdae7821b7599a3ca2
+
+COCOAPODS: 1.12.1
